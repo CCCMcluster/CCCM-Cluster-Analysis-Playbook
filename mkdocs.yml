@@ -1,0 +1,6 @@
+site_name: CCCM Cluster Analysis Playbook
+theme: readthedocs
+pages:
+    - Home: index.md
+    - About: about.md
+    - Test: test.md
