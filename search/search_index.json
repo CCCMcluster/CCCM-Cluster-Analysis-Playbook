@@ -2,27 +2,27 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to the CCCM Cluster Analysis Playbook\n\n\nIntroduction\n\n\nPurpose\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nAudience\n\n\ntest \ntext\n\n\nContent\n\n\nHow to use",
+            "text": "The CCCM Cluster Analysis Playbook\n\n\n\n\nNote\n\n\nThe latest version of this playbook is downloadable below as a \nPDF\n or \nEPUB\n.\n\n\n\n\nIntroduction\n\n\nAn introduction to the playbook\n\n\nPurpose\n\n\nWhat is it for?\nTo assist in the timely and coherent production of CCCM analysis products. To promote a level of standardisation of CCCM information workflows and products. \n\n\nAudience\n\n\nWho are the target users of this?\nPrimarily CCCM Cluster Coordinators and Information Management Offficers.\n\n\nContent\n\n\nHow to use\n\n\n\n\nIdentofy the analytical product of interest and look at the similar examples from other contexts.\n\n\nDownload the templates and the corresponding software.\n\n\nLook through the Analytical Framework to identify what data sources are required to create the product and to identify unmet information needs.",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-the-cccm-cluster-analysis-playbook",
-            "text": "",
-            "title": "Welcome to the CCCM Cluster Analysis Playbook"
+            "location": "/#the-cccm-cluster-analysis-playbook",
+            "text": "Note  The latest version of this playbook is downloadable below as a  PDF  or  EPUB .",
+            "title": "The CCCM Cluster Analysis Playbook"
         },
         {
             "location": "/#introduction",
-            "text": "",
+            "text": "An introduction to the playbook",
             "title": "Introduction"
         },
         {
             "location": "/#purpose",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "What is it for?\nTo assist in the timely and coherent production of CCCM analysis products. To promote a level of standardisation of CCCM information workflows and products.",
             "title": "Purpose"
         },
         {
             "location": "/#audience",
-            "text": "test  text",
+            "text": "Who are the target users of this?\nPrimarily CCCM Cluster Coordinators and Information Management Offficers.",
             "title": "Audience"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "location": "/#how-to-use",
-            "text": "",
+            "text": "Identofy the analytical product of interest and look at the similar examples from other contexts.  Download the templates and the corresponding software.  Look through the Analytical Framework to identify what data sources are required to create the product and to identify unmet information needs.",
             "title": "How to use"
         },
         {
