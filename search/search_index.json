@@ -2,63 +2,98 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to the CCCM Cluster Analysis Playbook\n\n\nIntroduction\n\n\nPurpose\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nAudience\n\n\ntest \ntext\n\n\nContent\n\n\nHow to use",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-the-cccm-cluster-analysis-playbook",
+            "text": "",
+            "title": "Welcome to the CCCM Cluster Analysis Playbook"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#introduction",
+            "text": "",
+            "title": "Introduction"
         },
         {
-            "location": "/#project-layout",
+            "location": "/#purpose",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "title": "Purpose"
         },
         {
-            "location": "/about/",
+            "location": "/#audience",
+            "text": "test  text",
+            "title": "Audience"
+        },
+        {
+            "location": "/#content",
             "text": "",
-            "title": "About"
+            "title": "Content"
         },
         {
-            "location": "/test/",
-            "text": "Est gerebat Graium viximus quem quid exaudi\n\n\nDiu ave\n\n\nLorem markdownum actis puerpera viri video, precibus? Puer Achaia dat ne blandis\nlocumque: Pelion \ncondiderat famam\n: tulit erat\nsui. Optantemque ursa nequeo vitat ferinas dimissis artesque iussis, extremae\n\nsubducere positasque\n ingens veneni!\n\n\nProbat sibi; boves motu mille vitasset utiliter aequora maiorem tanto aequoreos\nperde. Quae virgo chori Aeolia et ferre ferus Ulixis Orphne inritamina adest.\nParabant face satis et habebat \nCirces\n, et Iphis bracchia narretque subito.\nSit hebes tandem: proles amplius et Delphos salutant putares, abire, tela, cum\nlympha nymphae, invidere.\n\n\nLata arbore toros\n\n\nNec ut esse vim Neptunia mea pressanda! In pande et tinguit me ante verba\ndecidit, saxo latet Sibyllae licet, velamine. Inmensi est auctor veloxque in\nvenit tellus bracchiaque dicta esset, ut cuspis.\n\n\nLupi omne haut illic rectorque habes\n\n\nPrecaris adstitit, iam credere quoque annosae speciosoque; oculos bimembres\nexcelsa pennis ambitae Pallas sine \niamque\n vel Peripha. Requiescit in Styx\nrogat, umeris se viscera origo antemnas partem, emisit.\n\n\nAera sagittis fidissima sacri\n\n\nInque pater \ndeo\n parens Tartara omnes, tum signis bracchia quotiens etiam;\nerat. Iuvenes Mimasque profuit ille facinus minus. Bis\n\nambiguus\n, hic quondam nomine cecidisse nata\niunctissima sonus, caret sit carinae videres relinquunt undas. Proserpina\nvestigia instructa deiecto solus requies tura, sulcis obductos cetera, novat.\nIntrat a evanuit Oceanus liquores relictum habitabilis \nlyncum movet\nvultusque\n deductas inops, collegit, date.\n\n\n\n\nHecabe suoque vigiles instructamque parte vicem attulit\n\n\nHiscere meas humano insanis Iovisque orbem si\n\n\nFertur Aeson multaque\n\n\n\n\nArmis ait eodem depresso Bacchei prosum nata\n\n\nExterrita dominus \nmollia\n teneret memori, tepentibus\nnocti harpen \ndubiis\n, vale. Neve civibus genus quodcumque eram reditum nec\nremoto, omni quod, ait restet. Propiore et tibi, saxa inque fuit videnda, cum\n\nhanc\n, et herbas agitur laurus. Robore enim\nvidi ante per? Resumere et inque timentem, se dubio, tum partes, Iove pedum\ndextera membrana, loris, nato remansit.\n\n\nAether dixit\n equarum poma, tigno, luce tum absumptis eminus: post. Venias\nguttae periturus lumina, ea marmore aperti tamen venire verba Periclymeni. Tum\npriori ecquid Oechalia urbes et matrem robora eventus coniugialia irasci\namplexus fructum barba, sacra. Eminet sed mater timentia, alter fuga videre\nlabori \ngente\n esset poena contactu sine valle sumus nec.",
-            "title": "Test"
-        },
-        {
-            "location": "/test/#est-gerebat-graium-viximus-quem-quid-exaudi",
+            "location": "/#how-to-use",
             "text": "",
-            "title": "Est gerebat Graium viximus quem quid exaudi"
+            "title": "How to use"
         },
         {
-            "location": "/test/#diu-ave",
-            "text": "Lorem markdownum actis puerpera viri video, precibus? Puer Achaia dat ne blandis\nlocumque: Pelion  condiderat famam : tulit erat\nsui. Optantemque ursa nequeo vitat ferinas dimissis artesque iussis, extremae subducere positasque  ingens veneni!  Probat sibi; boves motu mille vitasset utiliter aequora maiorem tanto aequoreos\nperde. Quae virgo chori Aeolia et ferre ferus Ulixis Orphne inritamina adest.\nParabant face satis et habebat  Circes , et Iphis bracchia narretque subito.\nSit hebes tandem: proles amplius et Delphos salutant putares, abire, tela, cum\nlympha nymphae, invidere.",
-            "title": "Diu ave"
+            "location": "/products/",
+            "text": "Product Menu\n\n\ntest text\n\n\n1. Site Profile\n\n\n2. Displacement Map",
+            "title": "Products Menu"
         },
         {
-            "location": "/test/#lata-arbore-toros",
-            "text": "Nec ut esse vim Neptunia mea pressanda! In pande et tinguit me ante verba\ndecidit, saxo latet Sibyllae licet, velamine. Inmensi est auctor veloxque in\nvenit tellus bracchiaque dicta esset, ut cuspis.",
-            "title": "Lata arbore toros"
+            "location": "/products/#product-menu",
+            "text": "test text",
+            "title": "Product Menu"
         },
         {
-            "location": "/test/#lupi-omne-haut-illic-rectorque-habes",
-            "text": "Precaris adstitit, iam credere quoque annosae speciosoque; oculos bimembres\nexcelsa pennis ambitae Pallas sine  iamque  vel Peripha. Requiescit in Styx\nrogat, umeris se viscera origo antemnas partem, emisit.",
-            "title": "Lupi omne haut illic rectorque habes"
+            "location": "/products/#1-site-profile",
+            "text": "",
+            "title": "1. Site Profile"
         },
         {
-            "location": "/test/#aera-sagittis-fidissima-sacri",
-            "text": "Inque pater  deo  parens Tartara omnes, tum signis bracchia quotiens etiam;\nerat. Iuvenes Mimasque profuit ille facinus minus. Bis ambiguus , hic quondam nomine cecidisse nata\niunctissima sonus, caret sit carinae videres relinquunt undas. Proserpina\nvestigia instructa deiecto solus requies tura, sulcis obductos cetera, novat.\nIntrat a evanuit Oceanus liquores relictum habitabilis  lyncum movet\nvultusque  deductas inops, collegit, date.   Hecabe suoque vigiles instructamque parte vicem attulit  Hiscere meas humano insanis Iovisque orbem si  Fertur Aeson multaque",
-            "title": "Aera sagittis fidissima sacri"
+            "location": "/products/#2-displacement-map",
+            "text": "",
+            "title": "2. Displacement Map"
         },
         {
-            "location": "/test/#armis-ait-eodem-depresso-bacchei-prosum-nata",
-            "text": "Exterrita dominus  mollia  teneret memori, tepentibus\nnocti harpen  dubiis , vale. Neve civibus genus quodcumque eram reditum nec\nremoto, omni quod, ait restet. Propiore et tibi, saxa inque fuit videnda, cum hanc , et herbas agitur laurus. Robore enim\nvidi ante per? Resumere et inque timentem, se dubio, tum partes, Iove pedum\ndextera membrana, loris, nato remansit.  Aether dixit  equarum poma, tigno, luce tum absumptis eminus: post. Venias\nguttae periturus lumina, ea marmore aperti tamen venire verba Periclymeni. Tum\npriori ecquid Oechalia urbes et matrem robora eventus coniugialia irasci\namplexus fructum barba, sacra. Eminet sed mater timentia, alter fuga videre\nlabori  gente  esset poena contactu sine valle sumus nec.",
-            "title": "Armis ait eodem depresso Bacchei prosum nata"
+            "location": "/templates/",
+            "text": "Templates\n\n\nPreparations\n\n\nSoftware\n\n\nSetting it up",
+            "title": "Templates"
+        },
+        {
+            "location": "/templates/#templates",
+            "text": "",
+            "title": "Templates"
+        },
+        {
+            "location": "/templates/#preparations",
+            "text": "",
+            "title": "Preparations"
+        },
+        {
+            "location": "/templates/#software",
+            "text": "",
+            "title": "Software"
+        },
+        {
+            "location": "/templates/#setting-it-up",
+            "text": "",
+            "title": "Setting it up"
+        },
+        {
+            "location": "/framework/",
+            "text": "CCCM Cluster Analysis Framework\n\n\nWhat is an analysis framework?",
+            "title": "Analytical Framework"
+        },
+        {
+            "location": "/framework/#cccm-cluster-analysis-framework",
+            "text": "",
+            "title": "CCCM Cluster Analysis Framework"
+        },
+        {
+            "location": "/framework/#what-is-an-analysis-framework",
+            "text": "",
+            "title": "What is an analysis framework?"
         }
     ]
 }
