@@ -4,23 +4,31 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <lastmod>2018-05-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/about/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <loc>/products/</loc>
+     <lastmod>2018-05-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/test/</loc>
-     <lastmod>2018-05-14</lastmod>
+     <loc>/templates/</loc>
+     <lastmod>2018-05-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/framework/</loc>
+     <lastmod>2018-05-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

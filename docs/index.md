@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# The CCCM Cluster Analysis Playbook
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
 
-## Commands
+!!! note
+    The latest version of this playbook is downloadable below as a [PDF](/files/CCCM-Cluster-Analysis-Playbook.pdf) or [EPUB](/files/CCCM-Cluster-Analysis-Playbook.epub).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Introduction
+An introduction to the playbook
 
-## Project layout
+### Purpose
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+What is it for?
+To assist in the timely and coherent production of CCCM analysis products. To promote a level of standardisation of CCCM information workflows and products. 
+
+### Audience
+
+Who are the target users of this?
+Primarily CCCM Cluster Coordinators and Information Management Offficers.
+
+### Content
+
+## How to use
+1. Identofy the analytical product of interest and look at the similar examples from other contexts.
+2. Download the templates and the corresponding software.
+3. Look through the Analytical Framework to identify what data sources are required to create the product and to identify unmet information needs.
