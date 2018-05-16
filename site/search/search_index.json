@@ -37,23 +37,43 @@
         },
         {
             "location": "/products/",
-            "text": "Product Menu\n\n\ntest text\n\n\n1. Site Profile\n\n\n2. Displacement Map",
+            "text": "Product Menu\n\n\nBelow are a list of 10 products which cover the majority of CCCM output requirements. \n\n\n1. 3W (Who, What, Where)\n\n\n\n\nName Variations:\n 4W, Operational Presence Map\n\n\nPurpose:\n To identify what agencies (who) are delivering what services (what), in which locations (where).\n\n\nData sources & requirements:\n In some contexts it\u2019s done in collaboration with OCHA with data coming from partners. In cases such as Bangladesh it\u2019s gathered from the DTM/NPM (both service availability & agency presence.\n\nGIS data should be available from OCHA\n1\n or on \nHDX\n\n\nSpecificity:\n Either admin level or site-level depending on available data and assessment type. \n\nLimitations/Variations:\n The 4th W referes to 'When'. This can be gathered from adding project dataes to the data or by doing snapshots over time. The former approach may add unnescessary complexity/reporting burnden.  3W/4Ws can be collected both from partners and/or through site assessments. Both approaches have their pros and cons.\n\n\nUsage:\n All cluster countries should have a 3W\n\n\nExamples:\n \nBangladesh\n\n\nLink to template\n\n\n2. Risk Analysis\n\n\n3. Site Map\n\n\n4. Site Profiles\n\n\n5. Displacement Map\n\n\n6. Settlements Map\n\n\n\n\n\n\n\n\n\n\nCommon Operational Datasets (CODs)  \nhttps://www.humanitarianresponse.info/en/applications/tools/category/operational-datasets\n\u00a0\n\u21a9",
             "title": "Products Menu"
         },
         {
             "location": "/products/#product-menu",
-            "text": "test text",
+            "text": "Below are a list of 10 products which cover the majority of CCCM output requirements.",
             "title": "Product Menu"
         },
         {
-            "location": "/products/#1-site-profile",
-            "text": "",
-            "title": "1. Site Profile"
+            "location": "/products/#1-3w-who-what-where",
+            "text": "Name Variations:  4W, Operational Presence Map  Purpose:  To identify what agencies (who) are delivering what services (what), in which locations (where).  Data sources & requirements:  In some contexts it\u2019s done in collaboration with OCHA with data coming from partners. In cases such as Bangladesh it\u2019s gathered from the DTM/NPM (both service availability & agency presence. \nGIS data should be available from OCHA 1  or on  HDX  Specificity:  Either admin level or site-level depending on available data and assessment type.  Limitations/Variations:  The 4th W referes to 'When'. This can be gathered from adding project dataes to the data or by doing snapshots over time. The former approach may add unnescessary complexity/reporting burnden.  3W/4Ws can be collected both from partners and/or through site assessments. Both approaches have their pros and cons.  Usage:  All cluster countries should have a 3W  Examples:   Bangladesh  Link to template",
+            "title": "1. 3W (Who, What, Where)"
         },
         {
-            "location": "/products/#2-displacement-map",
+            "location": "/products/#2-risk-analysis",
             "text": "",
-            "title": "2. Displacement Map"
+            "title": "2. Risk Analysis"
+        },
+        {
+            "location": "/products/#3-site-map",
+            "text": "",
+            "title": "3. Site Map"
+        },
+        {
+            "location": "/products/#4-site-profiles",
+            "text": "",
+            "title": "4. Site Profiles"
+        },
+        {
+            "location": "/products/#5-displacement-map",
+            "text": "",
+            "title": "5. Displacement Map"
+        },
+        {
+            "location": "/products/#6-settlements-map",
+            "text": "Common Operational Datasets (CODs)   https://www.humanitarianresponse.info/en/applications/tools/category/operational-datasets \u00a0 \u21a9",
+            "title": "6. Settlements Map"
         },
         {
             "location": "/templates/",
