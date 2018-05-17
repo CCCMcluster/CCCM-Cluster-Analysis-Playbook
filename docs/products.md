@@ -2,7 +2,7 @@
 
 Below are a list of 10 products which cover the majority of CCCM output requirements. 
 ## 1. 3W (Who, What, Where)  
-[![3W](images/3W.png)](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/20171229_4w_final.pdf)  
+[![3W](/images/3W.png)](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/20171229_4w_final.pdf)  
 **Name Variations:** 4W, Operational Presence Map  
 **Purpose:** To identify what agencies (who) are delivering what services (what), in which locations (where).  
 **Data sources & requirements:** In some contexts it’s done in collaboration with OCHA with data coming from partners. In cases such as Bangladesh it’s gathered from the DTM/NPM (both service availability & agency presence.  
