@@ -23,3 +23,5 @@ Primarily CCCM Cluster Coordinators and Information Management Offficers.
 1. Identofy the analytical product of interest and look at the similar examples from other contexts.
 2. Download the templates and the corresponding software.
 3. Look through the Analytical Framework to identify what data sources are required to create the product and to identify unmet information needs.
+
+### Acknowledgements
