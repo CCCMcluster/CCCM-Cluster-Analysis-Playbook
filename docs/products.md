@@ -72,8 +72,8 @@ GIS data should be available from OCHA[^1] or on HDX[^2]
 **Examples:**  
 [Link to template]() 
 
-## 8. Siterep
-**Name Variations:**  
+## 8. Sitrep
+**Name Variations:**  Factsheet, Overview  
 **Purpose:**  
 **Data sources & requirements:**  
 **Specificity:**  
@@ -90,6 +90,16 @@ GIS data should be available from OCHA[^1] or on HDX[^2]
 **Usage:**  
 **Examples:**  
 [Link to template]() 
+## 10. Interactive CCCM Dashboard
+**Purpose:**  
+**Data sources & requirements:**  
+**Specificity:**  
+**Limitations/Variations:**   
+**Usage:**  
+**Examples:**  
+[Link to template]() 
+
+
 
 [^1]: Common Operational Datasets (CODs)  [https://www.humanitarianresponse.info/en/applications/tools/category/operational-datasets](https://www.humanitarianresponse.info/en/applications/tools/category/operational-datasets)
 [^2]: Humanitarian Data Exchange [https://data.humdata.org](https://data.humdata.org)
