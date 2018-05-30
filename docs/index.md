@@ -5,7 +5,7 @@
     The latest version of this playbook is downloadable below as a [PDF](/files/CCCM-Cluster-Analysis-Playbook.pdf) or [EPUB](/files/CCCM-Cluster-Analysis-Playbook.epub).
 
 ## Introduction
-An introduction to the playbook
+This mini-site is intended to be a _living document_, to be updated as new or improved CCCM products and methods become available.
 
 ### Purpose
 
