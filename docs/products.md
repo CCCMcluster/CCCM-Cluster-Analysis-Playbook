@@ -39,6 +39,7 @@ GIS data should be available from OCHA[^1] or on HDX[^2]
 **Specificity:**  
 **Limitations/Variations:**   
 **Usage:**  
+**Comments:** http://www.inform-index.org/
 **Examples:**  
 [Link to template]() 
 
