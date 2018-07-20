@@ -20,8 +20,10 @@ Primarily CCCM Cluster Coordinators and Information Management Offficers.
 ### Content
 
 ## How to use
-1. Identofy the analytical product of interest and look at the similar examples from other contexts.
-2. Download the templates and the corresponding software.
+1. Browse the menu of CCCM Cluster analytical and coordination outputs. 
+2. Download relevant templates and the corresponding software.
 3. Look through the Analytical Framework to identify what data sources are required to create the product and to identify unmet information needs.
+4. Copy and build upon the skeleton form templates if no appropriate data source or mechanism exists.
 
 ### Acknowledgements
+The worked contained here is mostly a consolidation and extension of products previoulsly created by dedicated CCCM Information Management Officers and Cooordinators.
