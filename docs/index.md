@@ -26,4 +26,4 @@ Primarily CCCM Cluster Coordinators and Information Management Offficers.
 4. Copy and build upon the skeleton form templates if no appropriate data source or mechanism exists.
 
 ### Acknowledgements
-The worked contained here is mostly a consolidation and extension of products previoulsly created by dedicated CCCM Information Management Officers and Cooordinators.
+The worked contained here is mostly a consolidation and extension of products previoulsly created by dedicated CCCM Information Management Officers and Cooordinators.  

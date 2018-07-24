@@ -7,5 +7,7 @@ markdown_extensions:
 pages:
     - Home: index.md
     - Products Menu: products.md
-    - Templates: templates.md
+    - Product Templates: product-templates.md
     - Analytical Framework: framework.md
+    - Form Templates: forms.md
+    
