@@ -101,27 +101,27 @@
             "title": "10. Interactive CCCM Dashboard"
         },
         {
-            "location": "/templates/",
+            "location": "/product-templates/",
             "text": "Templates\n\n\nPreparations\n\n\nSoftware\n\n\nSetting it up",
-            "title": "Templates"
+            "title": "Product Templates"
         },
         {
-            "location": "/templates/#templates",
+            "location": "/product-templates/#templates",
             "text": "",
             "title": "Templates"
         },
         {
-            "location": "/templates/#preparations",
+            "location": "/product-templates/#preparations",
             "text": "",
             "title": "Preparations"
         },
         {
-            "location": "/templates/#software",
+            "location": "/product-templates/#software",
             "text": "",
             "title": "Software"
         },
         {
-            "location": "/templates/#setting-it-up",
+            "location": "/product-templates/#setting-it-up",
             "text": "",
             "title": "Setting it up"
         },
@@ -139,6 +139,31 @@
             "location": "/framework/#what-is-an-analysis-framework",
             "text": "",
             "title": "What is an analysis framework?"
+        },
+        {
+            "location": "/forms/",
+            "text": "Forms\n\n\n[Explain how to use the forms]\n[For each form template, provide a title, description and a link which can be copy and pasted into Kobo to get quickly started with the template]\n\n\nComplaints and Feedback Mechanism\n\n\n[description]\n[link that can be copied into Kobo]\n\n\nIncident reporting Form\n\n\n[similar to the mechanism in CXB, where incidents caused by natural hazards within camps can be reported]\n\n\nRelocation Tracker",
+            "title": "Form Templates"
+        },
+        {
+            "location": "/forms/#forms",
+            "text": "[Explain how to use the forms]\n[For each form template, provide a title, description and a link which can be copy and pasted into Kobo to get quickly started with the template]",
+            "title": "Forms"
+        },
+        {
+            "location": "/forms/#complaints-and-feedback-mechanism",
+            "text": "[description]\n[link that can be copied into Kobo]",
+            "title": "Complaints and Feedback Mechanism"
+        },
+        {
+            "location": "/forms/#incident-reporting-form",
+            "text": "[similar to the mechanism in CXB, where incidents caused by natural hazards within camps can be reported]",
+            "title": "Incident reporting Form"
+        },
+        {
+            "location": "/forms/#relocation-tracker",
+            "text": "",
+            "title": "Relocation Tracker"
         }
     ]
 }
